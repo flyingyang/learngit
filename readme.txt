@@ -1,2 +1,6 @@
 This is continul learning of git.
-Creating a new branch of git is very quick & simple. 
+<<<<<<< HEAD
+Creating a new branch of git is very quick and simple. 
+=======
+Creating a new branch of git is very quick and simple. 
+>>>>>>> future1
